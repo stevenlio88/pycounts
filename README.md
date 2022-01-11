@@ -1,21 +1,21 @@
-# pycounts
+# pycounts_sl
 
 This is a test Python package to learn python package creation process. This package includes simple functions operates on text file in Python.
 
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycounts_sl
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot the top 10 most frequent words
+`pycounts_sl` can be used to count words in a text file and plot the top 10 most frequent words
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_sl.pycounts_sl import count_words
+from pycounts_sl.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -32,9 +32,9 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_sl` was created by Tomas Beuzen. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_sl` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

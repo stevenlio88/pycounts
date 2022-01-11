@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_sl"
 version = "0.1.0"
 description = "This is a test Python package to learn python package creation process. This package includes simple functions operates on text file in Python."
 authors = ["Steven Lio"]

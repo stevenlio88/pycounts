@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `pycounts` for local development.
+Ready to contribute? Here's how to set up `pycounts_sl` for local development.
 
-1. Download a copy of `pycounts` locally.
-2. Install `pycounts` using `poetry`:
+1. Download a copy of `pycounts_sl` locally.
+2. Install `pycounts_sl` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `pycounts` project is released with a 
+Please note that the `pycounts_sl` project is released with a 
 Code of Conduct. By contributing to this project you agree to abide by its terms.

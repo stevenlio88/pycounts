@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_sl"
 copyright = u"2022, Steven Lio"
 author = u"Steven Lio"
 
