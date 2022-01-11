@@ -32,7 +32,7 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts_sl` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_sl` was created by Steven Lio. It is licensed under the terms
 of the MIT license.
 
 ## Credits
